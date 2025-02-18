@@ -6,4 +6,4 @@ Assignment 1: Dockerizing Simple Applications.
 Assignment 2: Building Libraries in C and C++.
 - Temperature Converter Library in C (using a static library)
 - Arithmetic Library in C++ (using a shared library)
-- Integration
+- Integration (Create C using both libaries)
